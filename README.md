@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am 17 years old and I am studying Computer Technician for the Internet at SENAI. I will finish the course in December 2025.<br>Front-end. ✔<br>Studying Back-end with PHP.<br>I dream of creating solutions that make a difference.🔥
+I am 17 years old and I am studying Computer Technician for the Internet at SENAI. I will finish the course in December 2025.<br>Front-end. ✔<br> Back-end with PHP.✔<br>I dream of creating solutions that make a difference.🔥
 
 
 ## 🌐 Socials:
