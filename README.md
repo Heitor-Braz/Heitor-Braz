@@ -1,5 +1,6 @@
 # 💫 About Me:
-I am 17 years old and I am studying Computer Technician for the Internet at SENAI. I will finish the course in December 2025.<br>Front-end. ✔<br> Back-end with PHP.✔<br>I dream of creating solutions that make a difference.🔥
+
+My name is Heitor Braz, I am 17 years old and I am an IT technician specializing in internet technology, having graduated from SENAI.<br>Front-end. ✔<br> Back-end with PHP.✔<br>I dream of creating solutions that make a difference.🔥
 
 
 ## 🌐 Socials:
